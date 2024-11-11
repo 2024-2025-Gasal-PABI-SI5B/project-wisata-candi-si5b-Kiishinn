@@ -201,7 +201,7 @@ class DetailScreen extends StatelessWidget {
                       height: 4,
                     ),
                     const Text(
-                      'Tap untuk memperbesar',
+                      'Tap untuk memperbesarrS',
                       style: TextStyle(fontSize: 12, color: Colors.black54),
                     ),
                   ],
